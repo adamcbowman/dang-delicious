@@ -1,6 +1,8 @@
 ## What is this?
 
-Just you wait folks!
+This my finished product from https://learnnode.com/ 
+
+Thanks for the course, Wes!
 
 ## Sample Data
 
